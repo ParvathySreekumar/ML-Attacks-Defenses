@@ -16,13 +16,13 @@ The victim model implemented is a simple DNN built with Sequential API. With MNI
 
 ### Attacks and Defenses
 #### Attacks
-   * BIM ( Basic Iterative Method)
-   * PGD (Projected Gradient Descent)
-   * JSMA (Jacobian-based Saliency Map Attack)
-   * C&W (Carlini & Wagner)
+* BIM ( Basic Iterative Method)
+* PGD (Projected Gradient Descent)
+* JSMA (Jacobian-based Saliency Map Attack)
+* C&W (Carlini & Wagner)
 #### Defenses
-   * Feature Squeezing
-   * Defensive Distillation
+* Feature Squeezing
+* Defensive Distillation
 
 ### Output
 ![image](https://github.com/user-attachments/assets/40fbb9e2-673d-4ef6-80a5-63d5fa377c6f)
